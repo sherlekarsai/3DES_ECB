@@ -1,0 +1,9 @@
+C:\Users\Sai\source\repos\TDES\bin\Debug\TDES.exe.config
+C:\Users\Sai\source\repos\TDES\bin\Debug\TDES.exe
+C:\Users\Sai\source\repos\TDES\bin\Debug\TDES.pdb
+C:\Users\Sai\source\repos\TDES\obj\Debug\TDES.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\TDES\obj\Debug\TDES.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\TDES\obj\Debug\TDES.exe
+C:\Users\Sai\source\repos\TDES\obj\Debug\TDES.pdb
+C:\Users\Sai\source\repos\TDES\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sai\source\repos\TDES\obj\Debug\TDES.csproj.CopyComplete
